@@ -1,4 +1,4 @@
-var choice = prompt("Welcome to area calculator. \n Please Enter your choice. \n1 Area of a Rectangle. \n2 Area of a triangle. \n3 Area of a Circle. \n4 Area of a parallelogram");
+var choice = prompt("Welcome to Area calculator. \n Please Enter your choice. \n1 Area of a Rectangle. \n2 Area of a triangle. \n3 Area of a Circle. \n4 Area of a parallelogram");
 
 if(choice == '1') {
   var l = prompt('Enter the length')
